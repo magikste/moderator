@@ -44,5 +44,7 @@
 # Vote for Moderator
 
 [Vote in Discord Boats](https://discord.boats/bot/522129012122845195#)
+
+
 ![](https://discord.boats/api/widget/522129012122845195)
 
