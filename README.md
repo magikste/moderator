@@ -1,5 +1,4 @@
-# Configuring Moderator
-## Use **=setup** to start.
+**[Invite Moderator](https://discordapp.com/oauth2/authorize?client_id=522129012122845195&scope=bot&permissions=67185670) | [Website](https://lem-moderation.glitch.me/)**
 
 - Step 1 | **Select the moderation logs channel for Moderator**.
 
@@ -40,6 +39,10 @@
 
 - Easy to Use.
 - Warning History.
-- ~~AutoRole~~ **(soon in next update)**
+- AutoRole **(soon in next update)**
 
-**[Invite Moderator](https://discordapp.com/oauth2/authorize?client_id=522129012122845195&scope=bot&permissions=67185670) | [Website](https://lem-moderation.glitch.me/)**
+# Vote for Moderator
+
+[Vote in Discord Boats](https://discord.boats/bot/522129012122845195#)
+![](https://discord.boats/api/widget/522129012122845195)
+
