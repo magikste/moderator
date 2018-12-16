@@ -39,7 +39,7 @@
 
 - Easy to Use.
 - Warning History.
-- AutoRole **(soon in next update)**
+- AutoRole **(⭐ Supports ID/Name without mention the role and lowercase too.)**
 
 # Vote for Moderator
 
